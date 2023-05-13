@@ -1,0 +1,69 @@
+Metadata-Version: 2.1
+Name: countryCodeChecker
+Version: 1.0.0
+Summary: Get countries' regional codes
+Home-page: UNKNOWN
+Author: Mohamad Alkiswani
+Author-email: mohamad.alkiswani@adastragrp.com
+License: UNKNOWN
+Description: # Country Code Check
+        
+        a package to return the country of a given code or vice versa
+        
+        ### Installing
+        
+        1. install it from pip with the name "countryCodeChecker"
+        ```sh
+        	pip install countryCodeChecker
+           ```
+        2. import the package in your project 
+         ```sh
+           from countryCodeChecker import listOfCountries
+           ```
+        3. create an object of the countries list
+        ex:
+         ```sh
+           countries = listOfCountries.CountryList()
+           ```
+        
+        ## Usage
+        1. prints code of country
+        ```sh
+        	countries.get_code_of_country("Australie", True)   
+           ```
+        2. prints country of a given code
+        ```sh
+        	countries.get_country_of_code("AU", True)   
+           ```
+        3. return an object country of a given code
+        ```sh
+        	usa = countries.get_country_of_code("US")
+        	print(usa.get_name())   
+           ```
+        
+        
+        ## Contact
+        
+        Oezdemir Akdemir - Oezdemir.Akdemir@adastragrp.com
+        
+        Johannes Mellenthin - Johannes.Mellenthin@adastragrp.com
+        
+        Mohamad Alkiswani - mohamad.alkiswani@adastragrp.com
+        
+        Project Link: [pythonlab-country-code-check](https://tfs.adastragrp.com/tfs/DefaultCollection/_git/pythonlab-country-code-check)
+        
+        
+        ## Author
+        * **Mohamad Alkiswani**
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3 :: Only
+Requires-Python: >=3.6, <4
+Description-Content-Type: text/markdown

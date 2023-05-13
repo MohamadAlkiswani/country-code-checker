@@ -1,0 +1,1247 @@
+[
+    {
+        "name": "Afghanistan",
+        "2letter": "AF",
+        "3letter": "AFG"
+    },
+    {
+        "name": "Åland Islands",
+        "2letter": "AX",
+        "3letter": "ALA"
+    },
+    {
+        "name": "Albania",
+        "2letter": "AL",
+        "3letter": "ALB"
+    },
+    {
+        "name": "Algeria",
+        "2letter": "DZ",
+        "3letter": "DZA"
+    },
+    {
+        "name": "American Samoa",
+        "2letter": "AS",
+        "3letter": "ASM"
+    },
+    {
+        "name": "Andorra",
+        "2letter": "AD",
+        "3letter": "AND"
+    },
+    {
+        "name": "Angola",
+        "2letter": "AO",
+        "3letter": "AGO"
+    },
+    {
+        "name": "Anguilla",
+        "2letter": "AI",
+        "3letter": "AIA"
+    },
+    {
+        "name": "Antarctica",
+        "2letter": "AQ",
+        "3letter": "ATA"
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "2letter": "AG",
+        "3letter": "ATG"
+    },
+    {
+        "name": "Argentina",
+        "2letter": "AR",
+        "3letter": "ARG"
+    },
+    {
+        "name": "Armenia",
+        "2letter": "AM",
+        "3letter": "ARM"
+    },
+    {
+        "name": "Aruba",
+        "2letter": "AW",
+        "3letter": "ABW"
+    },
+    {
+        "name": "Australia",
+        "2letter": "AU",
+        "3letter": "AUS"
+    },
+    {
+        "name": "Austria",
+        "2letter": "AT",
+        "3letter": "AUT"
+    },
+    {
+        "name": "Azerbaijan",
+        "2letter": "AZ",
+        "3letter": "AZE"
+    },
+    {
+        "name": "Bahamas",
+        "2letter": "BS",
+        "3letter": "BHS"
+    },
+    {
+        "name": "Bahrain",
+        "2letter": "BH",
+        "3letter": "BHR"
+    },
+    {
+        "name": "Bangladesh",
+        "2letter": "BD",
+        "3letter": "BGD"
+    },
+    {
+        "name": "Barbados",
+        "2letter": "BB",
+        "3letter": "BRB"
+    },
+    {
+        "name": "Belarus",
+        "2letter": "BY",
+        "3letter": "BLR"
+    },
+    {
+        "name": "Belgium",
+        "2letter": "BE",
+        "3letter": "BEL"
+    },
+    {
+        "name": "Belize",
+        "2letter": "BZ",
+        "3letter": "BLZ"
+    },
+    {
+        "name": "Benin",
+        "2letter": "BJ",
+        "3letter": "BEN"
+    },
+    {
+        "name": "Bermuda",
+        "2letter": "BM",
+        "3letter": "BMU"
+    },
+    {
+        "name": "Bhutan",
+        "2letter": "BT",
+        "3letter": "BTN"
+    },
+    {
+        "name": "Bolivia (Plurinational State of)",
+        "2letter": "BO",
+        "3letter": "BOL"
+    },
+    {
+        "name": "Bonaire, Sint Eustatius and Saba",
+        "2letter": "BQ",
+        "3letter": "BES"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "2letter": "BA",
+        "3letter": "BIH"
+    },
+    {
+        "name": "Botswana",
+        "2letter": "BW",
+        "3letter": "BWA"
+    },
+    {
+        "name": "Bouvet Island",
+        "2letter": "BV",
+        "3letter": "BVT"
+    },
+    {
+        "name": "Brazil",
+        "2letter": "BR",
+        "3letter": "BRA"
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "2letter": "IO",
+        "3letter": "IOT"
+    },
+    {
+        "name": "Brunei Darussalam",
+        "2letter": "BN",
+        "3letter": "BRN"
+    },
+    {
+        "name": "Bulgaria",
+        "2letter": "BG",
+        "3letter": "BGR"
+    },
+    {
+        "name": "Burkina Faso",
+        "2letter": "BF",
+        "3letter": "BFA"
+    },
+    {
+        "name": "Burundi",
+        "2letter": "BI",
+        "3letter": "BDI"
+    },
+    {
+        "name": "Cabo Verde",
+        "2letter": "CV",
+        "3letter": "CPV"
+    },
+    {
+        "name": "Cambodia",
+        "2letter": "KH",
+        "3letter": "KHM"
+    },
+    {
+        "name": "Cameroon",
+        "2letter": "CM",
+        "3letter": "CMR"
+    },
+    {
+        "name": "Canada",
+        "2letter": "CA",
+        "3letter": "CAN"
+    },
+    {
+        "name": "Cayman Islands",
+        "2letter": "KY",
+        "3letter": "CYM"
+    },
+    {
+        "name": "Central African Republic",
+        "2letter": "CF",
+        "3letter": "CAF"
+    },
+    {
+        "name": "Chad",
+        "2letter": "TD",
+        "3letter": "TCD"
+    },
+    {
+        "name": "Chile",
+        "2letter": "CL",
+        "3letter": "CHL"
+    },
+    {
+        "name": "China",
+        "2letter": "CN",
+        "3letter": "CHN"
+    },
+    {
+        "name": "Christmas Island",
+        "2letter": "CX",
+        "3letter": "CXR"
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "2letter": "CC",
+        "3letter": "CCK"
+    },
+    {
+        "name": "Colombia",
+        "2letter": "CO",
+        "3letter": "COL"
+    },
+    {
+        "name": "Comoros",
+        "2letter": "KM",
+        "3letter": "COM"
+    },
+    {
+        "name": "Congo",
+        "2letter": "CG",
+        "3letter": "COG"
+    },
+    {
+        "name": "Congo, Democratic Republic of the",
+        "2letter": "CD",
+        "3letter": "COD"
+    },
+    {
+        "name": "Cook Islands",
+        "2letter": "CK",
+        "3letter": "COK"
+    },
+    {
+        "name": "Costa Rica",
+        "2letter": "CR",
+        "3letter": "CRI"
+    },
+    {
+        "name": "Côte d'Ivoire",
+        "2letter": "CI",
+        "3letter": "CIV"
+    },
+    {
+        "name": "Croatia",
+        "2letter": "HR",
+        "3letter": "HRV"
+    },
+    {
+        "name": "Cuba",
+        "2letter": "CU",
+        "3letter": "CUB"
+    },
+    {
+        "name": "Curaçao",
+        "2letter": "CW",
+        "3letter": "CUW"
+    },
+    {
+        "name": "Cyprus",
+        "2letter": "CY",
+        "3letter": "CYP"
+    },
+    {
+        "name": "Czechia",
+        "2letter": "CZ",
+        "3letter": "CZE"
+    },
+    {
+        "name": "Denmark",
+        "2letter": "DK",
+        "3letter": "DNK"
+    },
+    {
+        "name": "Djibouti",
+        "2letter": "DJ",
+        "3letter": "DJI"
+    },
+    {
+        "name": "Dominica",
+        "2letter": "DM",
+        "3letter": "DMA"
+    },
+    {
+        "name": "Dominican Republic",
+        "2letter": "DO",
+        "3letter": "DOM"
+    },
+    {
+        "name": "Ecuador",
+        "2letter": "EC",
+        "3letter": "ECU"
+    },
+    {
+        "name": "Egypt",
+        "2letter": "EG",
+        "3letter": "EGY"
+    },
+    {
+        "name": "El Salvador",
+        "2letter": "SV",
+        "3letter": "SLV"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "2letter": "GQ",
+        "3letter": "GNQ"
+    },
+    {
+        "name": "Eritrea",
+        "2letter": "ER",
+        "3letter": "ERI"
+    },
+    {
+        "name": "Estonia",
+        "2letter": "EE",
+        "3letter": "EST"
+    },
+    {
+        "name": "Eswatini",
+        "2letter": "SZ",
+        "3letter": "SWZ"
+    },
+    {
+        "name": "Ethiopia",
+        "2letter": "ET",
+        "3letter": "ETH"
+    },
+    {
+        "name": "Falkland Islands (Malvinas)",
+        "2letter": "FK",
+        "3letter": "FLK"
+    },
+    {
+        "name": "Faroe Islands",
+        "2letter": "FO",
+        "3letter": "FRO"
+    },
+    {
+        "name": "Fiji",
+        "2letter": "FJ",
+        "3letter": "FJI"
+    },
+    {
+        "name": "Finland",
+        "2letter": "FI",
+        "3letter": "FIN"
+    },
+    {
+        "name": "France",
+        "2letter": "FR",
+        "3letter": "FRA"
+    },
+    {
+        "name": "French Guiana",
+        "2letter": "GF",
+        "3letter": "GUF"
+    },
+    {
+        "name": "French Polynesia",
+        "2letter": "PF",
+        "3letter": "PYF"
+    },
+    {
+        "name": "French Southern Territories",
+        "2letter": "TF",
+        "3letter": "ATF"
+    },
+    {
+        "name": "Gabon",
+        "2letter": "GA",
+        "3letter": "GAB"
+    },
+    {
+        "name": "Gambia",
+        "2letter": "GM",
+        "3letter": "GMB"
+    },
+    {
+        "name": "Georgia",
+        "2letter": "GE",
+        "3letter": "GEO"
+    },
+    {
+        "name": "Germany",
+        "2letter": "DE",
+        "3letter": "DEU"
+    },
+    {
+        "name": "Ghana",
+        "2letter": "GH",
+        "3letter": "GHA"
+    },
+    {
+        "name": "Gibraltar",
+        "2letter": "GI",
+        "3letter": "GIB"
+    },
+    {
+        "name": "Greece",
+        "2letter": "GR",
+        "3letter": "GRC"
+    },
+    {
+        "name": "Greenland",
+        "2letter": "GL",
+        "3letter": "GRL"
+    },
+    {
+        "name": "Grenada",
+        "2letter": "GD",
+        "3letter": "GRD"
+    },
+    {
+        "name": "Guadeloupe",
+        "2letter": "GP",
+        "3letter": "GLP"
+    },
+    {
+        "name": "Guam",
+        "2letter": "GU",
+        "3letter": "GUM"
+    },
+    {
+        "name": "Guatemala",
+        "2letter": "GT",
+        "3letter": "GTM"
+    },
+    {
+        "name": "Guernsey",
+        "2letter": "GG",
+        "3letter": "GGY"
+    },
+    {
+        "name": "Guinea",
+        "2letter": "GN",
+        "3letter": "GIN"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "2letter": "GW",
+        "3letter": "GNB"
+    },
+    {
+        "name": "Guyana",
+        "2letter": "GY",
+        "3letter": "GUY"
+    },
+    {
+        "name": "Haiti",
+        "2letter": "HT",
+        "3letter": "HTI"
+    },
+    {
+        "name": "Heard Island and McDonald Islands",
+        "2letter": "HM",
+        "3letter": "HMD"
+    },
+    {
+        "name": "Holy See",
+        "2letter": "VA",
+        "3letter": "VAT"
+    },
+    {
+        "name": "Honduras",
+        "2letter": "HN",
+        "3letter": "HND"
+    },
+    {
+        "name": "Hong Kong",
+        "2letter": "HK",
+        "3letter": "HKG"
+    },
+    {
+        "name": "Hungary",
+        "2letter": "HU",
+        "3letter": "HUN"
+    },
+    {
+        "name": "Iceland",
+        "2letter": "IS",
+        "3letter": "ISL"
+    },
+    {
+        "name": "India",
+        "2letter": "IN",
+        "3letter": "IND"
+    },
+    {
+        "name": "Indonesia",
+        "2letter": "ID",
+        "3letter": "IDN"
+    },
+    {
+        "name": "Iran (Islamic Republic of)",
+        "2letter": "IR",
+        "3letter": "IRN"
+    },
+    {
+        "name": "Iraq",
+        "2letter": "IQ",
+        "3letter": "IRQ"
+    },
+    {
+        "name": "Ireland",
+        "2letter": "IE",
+        "3letter": "IRL"
+    },
+    {
+        "name": "Isle of Man",
+        "2letter": "IM",
+        "3letter": "IMN"
+    },
+    {
+        "name": "Israel",
+        "2letter": "IL",
+        "3letter": "ISR"
+    },
+    {
+        "name": "Italy",
+        "2letter": "IT",
+        "3letter": "ITA"
+    },
+    {
+        "name": "Jamaica",
+        "2letter": "JM",
+        "3letter": "JAM"
+    },
+    {
+        "name": "Japan",
+        "2letter": "JP",
+        "3letter": "JPN"
+    },
+    {
+        "name": "Jersey",
+        "2letter": "JE",
+        "3letter": "JEY"
+    },
+    {
+        "name": "Jordan",
+        "2letter": "JO",
+        "3letter": "JOR"
+    },
+    {
+        "name": "Kazakhstan",
+        "2letter": "KZ",
+        "3letter": "KAZ"
+    },
+    {
+        "name": "Kenya",
+        "2letter": "KE",
+        "3letter": "KEN"
+    },
+    {
+        "name": "Kiribati",
+        "2letter": "KI",
+        "3letter": "KIR"
+    },
+    {
+        "name": "Korea (Democratic People's Republic of)",
+        "2letter": "KP",
+        "3letter": "PRK"
+    },
+    {
+        "name": "Korea, Republic of",
+        "2letter": "KR",
+        "3letter": "KOR"
+    },
+    {
+        "name": "Kuwait",
+        "2letter": "KW",
+        "3letter": "KWT"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "2letter": "KG",
+        "3letter": "KGZ"
+    },
+    {
+        "name": "Lao People's Democratic Republic",
+        "2letter": "LA",
+        "3letter": "LAO"
+    },
+    {
+        "name": "Latvia",
+        "2letter": "LV",
+        "3letter": "LVA"
+    },
+    {
+        "name": "Lebanon",
+        "2letter": "LB",
+        "3letter": "LBN"
+    },
+    {
+        "name": "Lesotho",
+        "2letter": "LS",
+        "3letter": "LSO"
+    },
+    {
+        "name": "Liberia",
+        "2letter": "LR",
+        "3letter": "LBR"
+    },
+    {
+        "name": "Libya",
+        "2letter": "LY",
+        "3letter": "LBY"
+    },
+    {
+        "name": "Liechtenstein",
+        "2letter": "LI",
+        "3letter": "LIE"
+    },
+    {
+        "name": "Lithuania",
+        "2letter": "LT",
+        "3letter": "LTU"
+    },
+    {
+        "name": "Luxembourg",
+        "2letter": "LU",
+        "3letter": "LUX"
+    },
+    {
+        "name": "Macao",
+        "2letter": "MO",
+        "3letter": "MAC"
+    },
+    {
+        "name": "Madagascar",
+        "2letter": "MG",
+        "3letter": "MDG"
+    },
+    {
+        "name": "Malawi",
+        "2letter": "MW",
+        "3letter": "MWI"
+    },
+    {
+        "name": "Malaysia",
+        "2letter": "MY",
+        "3letter": "MYS"
+    },
+    {
+        "name": "Maldives",
+        "2letter": "MV",
+        "3letter": "MDV"
+    },
+    {
+        "name": "Mali",
+        "2letter": "ML",
+        "3letter": "MLI"
+    },
+    {
+        "name": "Malta",
+        "2letter": "MT",
+        "3letter": "MLT"
+    },
+    {
+        "name": "Marshall Islands",
+        "2letter": "MH",
+        "3letter": "MHL"
+    },
+    {
+        "name": "Martinique",
+        "2letter": "MQ",
+        "3letter": "MTQ"
+    },
+    {
+        "name": "Mauritania",
+        "2letter": "MR",
+        "3letter": "MRT"
+    },
+    {
+        "name": "Mauritius",
+        "2letter": "MU",
+        "3letter": "MUS"
+    },
+    {
+        "name": "Mayotte",
+        "2letter": "YT",
+        "3letter": "MYT"
+    },
+    {
+        "name": "Mexico",
+        "2letter": "MX",
+        "3letter": "MEX"
+    },
+    {
+        "name": "Micronesia (Federated States of)",
+        "2letter": "FM",
+        "3letter": "FSM"
+    },
+    {
+        "name": "Moldova, Republic of",
+        "2letter": "MD",
+        "3letter": "MDA"
+    },
+    {
+        "name": "Monaco",
+        "2letter": "MC",
+        "3letter": "MCO"
+    },
+    {
+        "name": "Mongolia",
+        "2letter": "MN",
+        "3letter": "MNG"
+    },
+    {
+        "name": "Montenegro",
+        "2letter": "ME",
+        "3letter": "MNE"
+    },
+    {
+        "name": "Montserrat",
+        "2letter": "MS",
+        "3letter": "MSR"
+    },
+    {
+        "name": "Morocco",
+        "2letter": "MA",
+        "3letter": "MAR"
+    },
+    {
+        "name": "Mozambique",
+        "2letter": "MZ",
+        "3letter": "MOZ"
+    },
+    {
+        "name": "Myanmar",
+        "2letter": "MM",
+        "3letter": "MMR"
+    },
+    {
+        "name": "Namibia",
+        "2letter": "NA",
+        "3letter": "NAM"
+    },
+    {
+        "name": "Nauru",
+        "2letter": "NR",
+        "3letter": "NRU"
+    },
+    {
+        "name": "Nepal",
+        "2letter": "NP",
+        "3letter": "NPL"
+    },
+    {
+        "name": "Netherlands",
+        "2letter": "NL",
+        "3letter": "NLD"
+    },
+    {
+        "name": "New Caledonia",
+        "2letter": "NC",
+        "3letter": "NCL"
+    },
+    {
+        "name": "New Zealand",
+        "2letter": "NZ",
+        "3letter": "NZL"
+    },
+    {
+        "name": "Nicaragua",
+        "2letter": "NI",
+        "3letter": "NIC"
+    },
+    {
+        "name": "Niger",
+        "2letter": "NE",
+        "3letter": "NER"
+    },
+    {
+        "name": "Nigeria",
+        "2letter": "NG",
+        "3letter": "NGA"
+    },
+    {
+        "name": "Niue",
+        "2letter": "NU",
+        "3letter": "NIU"
+    },
+    {
+        "name": "Norfolk Island",
+        "2letter": "NF",
+        "3letter": "NFK"
+    },
+    {
+        "name": "North Macedonia",
+        "2letter": "MK",
+        "3letter": "MKD"
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "2letter": "MP",
+        "3letter": "MNP"
+    },
+    {
+        "name": "Norway",
+        "2letter": "NO",
+        "3letter": "NOR"
+    },
+    {
+        "name": "Oman",
+        "2letter": "OM",
+        "3letter": "OMN"
+    },
+    {
+        "name": "Pakistan",
+        "2letter": "PK",
+        "3letter": "PAK"
+    },
+    {
+        "name": "Palau",
+        "2letter": "PW",
+        "3letter": "PLW"
+    },
+    {
+        "name": "Palestine, State of",
+        "2letter": "PS",
+        "3letter": "PSE"
+    },
+    {
+        "name": "Panama",
+        "2letter": "PA",
+        "3letter": "PAN"
+    },
+    {
+        "name": "Papua New Guinea",
+        "2letter": "PG",
+        "3letter": "PNG"
+    },
+    {
+        "name": "Paraguay",
+        "2letter": "PY",
+        "3letter": "PRY"
+    },
+    {
+        "name": "Peru",
+        "2letter": "PE",
+        "3letter": "PER"
+    },
+    {
+        "name": "Philippines",
+        "2letter": "PH",
+        "3letter": "PHL"
+    },
+    {
+        "name": "Pitcairn",
+        "2letter": "PN",
+        "3letter": "PCN"
+    },
+    {
+        "name": "Poland",
+        "2letter": "PL",
+        "3letter": "POL"
+    },
+    {
+        "name": "Portugal",
+        "2letter": "PT",
+        "3letter": "PRT"
+    },
+    {
+        "name": "Puerto Rico",
+        "2letter": "PR",
+        "3letter": "PRI"
+    },
+    {
+        "name": "Qatar",
+        "2letter": "QA",
+        "3letter": "QAT"
+    },
+    {
+        "name": "Réunion",
+        "2letter": "RE",
+        "3letter": "REU"
+    },
+    {
+        "name": "Romania",
+        "2letter": "RO",
+        "3letter": "ROU"
+    },
+    {
+        "name": "Russian Federation",
+        "2letter": "RU",
+        "3letter": "RUS"
+    },
+    {
+        "name": "Rwanda",
+        "2letter": "RW",
+        "3letter": "RWA"
+    },
+    {
+        "name": "Saint Barthélemy",
+        "2letter": "BL",
+        "3letter": "BLM"
+    },
+    {
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "2letter": "SH",
+        "3letter": "SHN"
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "2letter": "KN",
+        "3letter": "KNA"
+    },
+    {
+        "name": "Saint Lucia",
+        "2letter": "LC",
+        "3letter": "LCA"
+    },
+    {
+        "name": "Saint Martin (French part)",
+        "2letter": "MF",
+        "3letter": "MAF"
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "2letter": "PM",
+        "3letter": "SPM"
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "2letter": "VC",
+        "3letter": "VCT"
+    },
+    {
+        "name": "Samoa",
+        "2letter": "WS",
+        "3letter": "WSM"
+    },
+    {
+        "name": "San Marino",
+        "2letter": "SM",
+        "3letter": "SMR"
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "2letter": "ST",
+        "3letter": "STP"
+    },
+    {
+        "name": "Saudi Arabia",
+        "2letter": "SA",
+        "3letter": "SAU"
+    },
+    {
+        "name": "Senegal",
+        "2letter": "SN",
+        "3letter": "SEN"
+    },
+    {
+        "name": "Serbia",
+        "2letter": "RS",
+        "3letter": "SRB"
+    },
+    {
+        "name": "Seychelles",
+        "2letter": "SC",
+        "3letter": "SYC"
+    },
+    {
+        "name": "Sierra Leone",
+        "2letter": "SL",
+        "3letter": "SLE"
+    },
+    {
+        "name": "Singapore",
+        "2letter": "SG",
+        "3letter": "SGP"
+    },
+    {
+        "name": "Sint Maarten (Dutch part)",
+        "2letter": "SX",
+        "3letter": "SXM"
+    },
+    {
+        "name": "Slovakia",
+        "2letter": "SK",
+        "3letter": "SVK"
+    },
+    {
+        "name": "Slovenia",
+        "2letter": "SI",
+        "3letter": "SVN"
+    },
+    {
+        "name": "Solomon Islands",
+        "2letter": "SB",
+        "3letter": "SLB"
+    },
+    {
+        "name": "Somalia",
+        "2letter": "SO",
+        "3letter": "SOM"
+    },
+    {
+        "name": "South Africa",
+        "2letter": "ZA",
+        "3letter": "ZAF"
+    },
+    {
+        "name": "South Georgia and the South Sandwich Islands",
+        "2letter": "GS",
+        "3letter": "SGS"
+    },
+    {
+        "name": "South Sudan",
+        "2letter": "SS",
+        "3letter": "SSD"
+    },
+    {
+        "name": "Spain",
+        "2letter": "ES",
+        "3letter": "ESP"
+    },
+    {
+        "name": "Sri Lanka",
+        "2letter": "LK",
+        "3letter": "LKA"
+    },
+    {
+        "name": "Sudan",
+        "2letter": "SD",
+        "3letter": "SDN"
+    },
+    {
+        "name": "Suriname",
+        "2letter": "SR",
+        "3letter": "SUR"
+    },
+    {
+        "name": "Svalbard and Jan Mayen",
+        "2letter": "SJ",
+        "3letter": "SJM"
+    },
+    {
+        "name": "Sweden",
+        "2letter": "SE",
+        "3letter": "SWE"
+    },
+    {
+        "name": "Switzerland",
+        "2letter": "CH",
+        "3letter": "CHE"
+    },
+    {
+        "name": "Syrian Arab Republic",
+        "2letter": "SY",
+        "3letter": "SYR"
+    },
+    {
+        "name": "Taiwan, Province of China",
+        "2letter": "TW",
+        "3letter": "TWN"
+    },
+    {
+        "name": "Tajikistan",
+        "2letter": "TJ",
+        "3letter": "TJK"
+    },
+    {
+        "name": "Tanzania, United Republic of",
+        "2letter": "TZ",
+        "3letter": "TZA"
+    },
+    {
+        "name": "Thailand",
+        "2letter": "TH",
+        "3letter": "THA"
+    },
+    {
+        "name": "Timor-Leste",
+        "2letter": "TL",
+        "3letter": "TLS"
+    },
+    {
+        "name": "Togo",
+        "2letter": "TG",
+        "3letter": "TGO"
+    },
+    {
+        "name": "Tokelau",
+        "2letter": "TK",
+        "3letter": "TKL"
+    },
+    {
+        "name": "Tonga",
+        "2letter": "TO",
+        "3letter": "TON"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "2letter": "TT",
+        "3letter": "TTO"
+    },
+    {
+        "name": "Tunisia",
+        "2letter": "TN",
+        "3letter": "TUN"
+    },
+    {
+        "name": "Turkey",
+        "2letter": "TR",
+        "3letter": "TUR"
+    },
+    {
+        "name": "Turkmenistan",
+        "2letter": "TM",
+        "3letter": "TKM"
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "2letter": "TC",
+        "3letter": "TCA"
+    },
+    {
+        "name": "Tuvalu",
+        "2letter": "TV",
+        "3letter": "TUV"
+    },
+    {
+        "name": "Uganda",
+        "2letter": "UG",
+        "3letter": "UGA"
+    },
+    {
+        "name": "Ukraine",
+        "2letter": "UA",
+        "3letter": "UKR"
+    },
+    {
+        "name": "United Arab Emirates",
+        "2letter": "AE",
+        "3letter": "ARE"
+    },
+    {
+        "name": "United Kingdom of Great Britain and Northern Ireland",
+        "2letter": "GB",
+        "3letter": "GBR"
+    },
+    {
+        "name": "United States of America",
+        "2letter": "US",
+        "3letter": "USA"
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "2letter": "UM",
+        "3letter": "UMI"
+    },
+    {
+        "name": "Uruguay",
+        "2letter": "UY",
+        "3letter": "URY"
+    },
+    {
+        "name": "Uzbekistan",
+        "2letter": "UZ",
+        "3letter": "UZB"
+    },
+    {
+        "name": "Vanuatu",
+        "2letter": "VU",
+        "3letter": "VUT"
+    },
+    {
+        "name": "Venezuela (Bolivarian Republic of)",
+        "2letter": "VE",
+        "3letter": "VEN"
+    },
+    {
+        "name": "Viet Nam",
+        "2letter": "VN",
+        "3letter": "VNM"
+    },
+    {
+        "name": "Virgin Islands (British)",
+        "2letter": "VG",
+        "3letter": "VGB"
+    },
+    {
+        "name": "Virgin Islands (U.S.)",
+        "2letter": "VI",
+        "3letter": "VIR"
+    },
+    {
+        "name": "Wallis and Futuna",
+        "2letter": "WF",
+        "3letter": "WLF"
+    },
+    {
+        "name": "Western Sahara",
+        "2letter": "EH",
+        "3letter": "ESH"
+    },
+    {
+        "name": "Yemen",
+        "2letter": "YE",
+        "3letter": "YEM"
+    },
+    {
+        "name": "Zambia",
+        "2letter": "ZM",
+        "3letter": "ZMB"
+    },
+    {
+        "name": "Zimbabwe",
+        "2letter": "ZW",
+        "3letter": "ZWE"
+    }
+]

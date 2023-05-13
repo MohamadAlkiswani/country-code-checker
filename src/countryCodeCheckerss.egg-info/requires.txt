@@ -1,0 +1,2 @@
+unidecode
+importlib_resources
